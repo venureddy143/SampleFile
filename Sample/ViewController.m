@@ -16,7 +16,7 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    NSLog(@"Sample file...from git");
+    NSLog(@"Sample file...from gitsfdsfdf");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
